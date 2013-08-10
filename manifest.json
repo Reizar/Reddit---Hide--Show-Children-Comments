@@ -1,6 +1,6 @@
 {
   "name": "Reddit: Show/Hide Children",
-  "version": "1.00",
+  "version": "1.0.0",
   "manifest_version": 2,
   "description": "This extension hides / shows children comments on reddit posts.
                   'r + h' to hide. 'r + s' to show",
@@ -11,14 +11,15 @@
     "128": "icons/icon128.png"
   },
   "permissions": [
-    "http://www.reddit.com/r/*"
-  ],
+        "<all_urls>"
+    ],
 
   "content_scripts": [
         {
-            "matches": ["*://www.reddit.com.com/*"],
-            "js"     : [
-                          "js/jquery.min.js",
-                          "js/script.js"
-                       ]
+            "matches": ["*://www.reddit.com/*"],
+            "js": ["js/jquery.min.js",
+                   "js/script.js"
+                  ]
+        }
+  ]
 }
