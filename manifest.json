@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "manifest_version": 2,
   "description": "This extension hides / shows children comments on reddit posts.
-                  'r + h' to hide. 'r + s' to show",
+                  'alt + h' to hide. 'alt + s' to show",
   "homepage_url": "http://www.rama.io",
   "icons": {
     "16": "icons/icon16.png",
