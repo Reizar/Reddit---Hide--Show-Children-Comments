@@ -7,4 +7,4 @@ my own.
 
 ___When on a Reddit comments page:___ 
 - "Alt + h" to hide children comments.
--"Alt + s" to show children comments.
+- "Alt + s" to show children comments.
