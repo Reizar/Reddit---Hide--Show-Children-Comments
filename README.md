@@ -5,6 +5,6 @@ top level comments on AskReddit threads.
 There is probably something already out there for this, but I decided to make 
 my own.
 
-When on a Reddit comments page: 
-  "Alt + h" to hide children comments.
-  "Alt + s" to show children comments.
+___When on a Reddit comments page:___ 
+- "Alt + h" to hide children comments.
+-"Alt + s" to show children comments.
